@@ -49,3 +49,13 @@ a:hover,
 a:active {
     color: inherit;
 }
+
+.sticky-manabi {
+    position: fixed;
+    top: 2rem;
+    right: 2rem;
+}
+
+.manabi-logo {
+    width: 5rem;
+}
