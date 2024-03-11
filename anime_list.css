@@ -1,0 +1,15 @@
+#shows-list {
+    font-size: 1.2rem;
+}
+
+a {
+    padding-top: 5rem;
+    font-size: 1.2rem;
+}
+
+a,
+a:visited,
+a:hover,
+a:active {
+    color: inherit;
+}

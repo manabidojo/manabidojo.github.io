@@ -1,0 +1,51 @@
+html {
+    background-color: #111214;
+    color: #e3e4e9;
+    font-family: "Noto Sans", sans-serif;
+}
+
+body {
+    width: 75%;
+    /* background-color: red; */
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    padding-bottom: 5rem;
+}
+
+.patreon-button {
+    width: 180px;
+}
+
+.screen-img {
+    width: 75%;
+    margin: auto;
+}
+
+.feature-list {
+    font-size: 1.2rem;
+    padding-bottom: 5rem;
+}
+
+.feature-list li {
+    margin: 10px 0;
+}
+
+.center {
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    font-size: 3rem;
+    margin: auto;
+    text-align: center;
+}
+
+a {
+    font-size: 1.2rem;
+}
+
+a,
+a:visited,
+a:hover,
+a:active {
+    color: inherit;
+}
