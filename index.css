@@ -5,7 +5,7 @@ html {
 }
 
 body {
-    width: 75%;
+    width: 100%;
     /* background-color: red; */
     display: flex;
     margin: auto;
@@ -13,19 +13,185 @@ body {
     padding-bottom: 5rem;
 }
 
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+    padding-top: 2rem;
+    font-size: 1rem;
+    justify-content: space-between;
+    align-items: center;
+    background: #171b23;
+    width: 85%;
+    margin: auto;
+}
+
+@media only screen and (max-width: 600px) {
+    .welcome-section-wrapper {
+        flex-direction: column !important;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .welcome-section-text {
+        width: 100% !important;
+        text-align: center;
+        justify-content: center !important;
+        align-items: center !important;
+        padding-right: 0 !important;
+    }
+
+    .feature-wrapper {
+        flex-direction: column !important;
+        align-items: center;
+    }
+
+    .feature-list {
+        padding: 0 !important;
+    }
+
+    .feature-image-wrapper {
+        width: 100% !important;
+    }
+
+    .feature-text-wrapper {
+        width: 100% !important;
+        order: 1;
+    }
+
+    .welcome-section-image {
+        padding-top: 64px;
+        width: 100% !important;
+    }
+}
+
+.nav-bar-wrapper {
+    width: 100%;
+    background: #171b23;
+    padding-bottom: 2rem;
+}
+
+.manabi-logo {
+    width: 4rem;
+}
+
+.nav-links {
+    display: flex;
+    flex-direction: row;
+    gap: 5rem;
+}
+
+.welcome-section {
+    display: flex;
+    flex-direction: row;
+    background: #171b23;
+    padding-top: 5rem;
+}
+
+.welcome-section-text {
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-sizing: border-box;
+    padding-right: 5rem;
+}
+
+.extension-link-button {
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    background: #166EC0;
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 100px;
+    color: #e3e4e9;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.how-to-use-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 85%;
+    margin: auto;
+}
+
+
+.welcome-section-text h1 {
+    font-size: 5rem;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.welcome-section-text p {
+    font-size: 1.4rem;
+    line-height: 2.2rem;
+}
+
+.welcome-section-image {
+    width: 55%;
+    border-radius: 50%;
+    /*display: flex;*/
+}
+
+.feature-wrapper {
+    display: flex;
+    padding-bottom: 8rem;
+}
+
+.feature-text-wrapper {
+    display: flex;
+    width: 45%;
+    align-items: center;
+}
+
+.feature-image-wrapper {
+    display: flex;
+    width: 55%;
+}
+
+.feature-list {
+    font-size: 1.6rem;
+    margin-left: 4rem;
+}
+
+.feature-list li {
+    padding: 0.5rem;
+}
+
+.screen-img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+
+
+
+
+
+
+
+
 .patreon-button {
     width: 180px;
 }
 
-.screen-img {
-    width: 75%;
-    margin: auto;
-}
-
-.feature-list {
-    font-size: 1.2rem;
-    padding-bottom: 5rem;
-}
 
 .feature-list li {
     margin: 10px 0;
@@ -56,6 +222,6 @@ a:active {
     right: 2rem;
 }
 
-.manabi-logo {
-    width: 5rem;
+#shows-list li {
+    padding-bottom: 1rem;
 }

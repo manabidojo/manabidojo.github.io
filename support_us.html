@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="shortcut icon" type="image/png" href="/assets/manabi_logo.png" />
+    <link rel="stylesheet" href="index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div class="nav-bar-wrapper">
+        <div class="nav-bar">
+            <img class="manabi-logo" src="assets/manabi_logo.png">
+            <div class="nav-links">
+                <a href="index.html">Home</a>
+                <a href="shows_list.html">Shows</a>
+                <a href="support_us.html">Support us</a>
+            </div>
+        </div>
+    </div>
+
+    <div style="width: 80%; margin:auto; padding-top: 2rem">
+        <h1>If you wish to support us</h1>
+        <div id="donate-button-container">
+            <div id="donate-button"></div>
+            <script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
+            <script>
+                PayPal.Donation.Button({
+                    env: 'production',
+                    hosted_button_id: 'GUHCQSDKF3B2S',
+                    image: {
+                        src: 'https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif',
+                        alt: 'Donate with PayPal button',
+                        title: 'PayPal - The safer, easier way to pay online!',
+                    }
+                }).render('#donate-button');
+            </script>
+        </div>
+    </div>
+    </div>
+</body>
+
+</html>
