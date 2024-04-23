@@ -34,9 +34,10 @@
                     return response;
                 })
                 .then((response) => {
-                    <!-- (e.episode_support ? (e.episode_support + " episodes") : (e.season_support && "Seasons: " + season_support)) -->
                     response.result.forEach(e => {
-                        document.getElementById("shows-list").innerHTML += ("<li>" + e.name + " (Seasons: " + (e.season_support && e.season_support.join(", ")) + ")" + "</li>")
+                        let supportLabel = e.episode_support ? "Episodes: " : "Seasons: "
+                        let supportData = e.episode_support ? e.episode_support : e.season_support.join(", ")
+                        document.getElementById("shows-list").innerHTML += ("<li>" + e.name + " (" + supportLabel + supportData + ")" + "</li > ")
                     })
                 })
         </script>
