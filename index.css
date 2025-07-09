@@ -225,3 +225,24 @@ a:active {
 #shows-list li {
     padding-bottom: 1rem;
 }
+
+.under-construction-banner {
+   position: absolute;
+    width: 400px;
+    display: flex;
+    background-color: rgb(53, 140, 211);
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 22px;
+    left: 0; 
+    right: 0; 
+    top: 32px;
+    margin-inline: auto; 
+    font-weight: 600;
+    border-radius: 10px;
+    border: 1px solid red;
+}
+
