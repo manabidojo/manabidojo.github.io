@@ -1,0 +1,44 @@
+# ManabiDojo
+
+> ManabiDojo is a Chrome extension that helps you learn Japanese by making anime, manga, and any webpage interactive. Click any word in subtitles or on a page to look it up, save it, or get an AI grammar breakdown. One subscription covers both the Video extension (Crunchyroll, Netflix, and other streaming sites) and the Web extension (manga readers, news sites, novels, with OCR for image-based text).
+
+ManabiDojo is built for self-directed Japanese learners — from casual anime fans who want to understand content without relying on subtitles, to committed students doing structured JLPT preparation and immersion-based study. The product works in the browser and does not require setup beyond installing the extension and signing in.
+
+## Core features
+
+- Interactive subtitles on video streaming sites (Crunchyroll, Netflix, YouTube, and others)
+- Click-to-lookup dictionary for any Japanese word on any webpage
+- AI-powered grammar breakdowns that explain sentence structure on demand
+- OCR text extraction for manga and image-based Japanese (works on most manga reader sites)
+- Flashcard word bank synced across video and web, with one-click Anki export
+- Supports furigana, pitch accent data, and example sentences
+- Works offline for dictionary lookups once installed
+
+## Pricing
+
+- Monthly subscription: billed monthly, cancel anytime
+- Lifetime: one-time payment, priced at roughly 20 months of the monthly plan
+- Free trial available on signup
+- One subscription unlocks both the Video and Web extensions
+
+## Key pages
+
+- [Home](https://manabidojo.com/): product overview, primary CTAs, and social proof
+- [Features](https://manabidojo.com/features): full feature documentation for both extensions
+- [Pricing](https://manabidojo.com/pricing): plans, free trial, lifetime option
+- [Supported Shows](https://manabidojo.com/supported-shows): every Crunchyroll series the Video extension currently supports
+- [Blog](https://manabidojo.com/blog): guides on learning Japanese through immersion, product updates
+- [Changelog](https://manabidojo.com/changelog): release notes
+- [Rights Holders](https://manabidojo.com/rights-holders): information for content rights holders
+- [Privacy Policy](https://manabidojo.com/privacy-policy)
+- [Terms of Service](https://manabidojo.com/terms-of-service)
+
+## About
+
+ManabiDojo is built by Jakub Holovsky. The product started as a video subtitle tool and expanded to cover the rest of the web as OCR capabilities matured. The design philosophy is "tool, not toy" — no gamification, no streaks, no leaderboards. The extension is meant to feel like a capable instrument for serious learners.
+
+## What ManabiDojo is not
+
+- Not a curriculum or course — it augments content you are already consuming
+- Not a replacement for graded readers or textbooks — it is a companion tool for immersion
+- Not a translation tool — it teaches you the words and grammar, it does not hand you the meaning

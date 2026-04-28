@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /account
+Disallow: /successful-payment
+
+Sitemap: https://manabidojo.com/sitemap-index.xml

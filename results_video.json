@@ -14996,5 +14996,212 @@
       }
     ],
     "names": []
+  },
+  "本当に": {
+    "words": [
+      {
+        "term": "本当に",
+        "furigana": "[本当|ほん|とう]に",
+        "parsedFurigana": [
+          {
+            "id": 0,
+            "text": "本",
+            "furigana": "ほん|とう"
+          },
+          {
+            "id": 1,
+            "text": "当"
+          },
+          {
+            "id": 2,
+            "text": "に"
+          }
+        ],
+        "isCommon": true,
+        "senses": [
+          {
+            "pos": [
+              "Adverb"
+            ],
+            "glosses": [
+              "really",
+              "truly",
+              "actually",
+              "indeed"
+            ],
+            "info": null
+          }
+        ],
+        "exampleSentences": []
+      }
+    ],
+    "kanji": [],
+    "names": []
+  },
+  "見つけて": {
+    "words": [
+      {
+        "term": "見つける",
+        "furigana": "[見|み]つける",
+        "parsedFurigana": [
+          {
+            "id": 0,
+            "text": "見",
+            "furigana": "み"
+          },
+          {
+            "id": 1,
+            "text": "つ"
+          },
+          {
+            "id": 2,
+            "text": "け"
+          },
+          {
+            "id": 3,
+            "text": "る"
+          }
+        ],
+        "isCommon": true,
+        "senses": [
+          {
+            "pos": [
+              {
+                "Verb": "Ichidan"
+              },
+              {
+                "Verb": "Transitive"
+              }
+            ],
+            "glosses": [
+              "to discover",
+              "to find",
+              "to spot",
+              "to detect",
+              "to locate"
+            ],
+            "info": null
+          },
+          {
+            "pos": [
+              {
+                "Verb": "Ichidan"
+              },
+              {
+                "Verb": "Transitive"
+              }
+            ],
+            "glosses": [
+              "to be familiar with",
+              "to be used to seeing"
+            ],
+            "info": null
+          }
+        ],
+        "exampleSentences": []
+      }
+    ],
+    "kanji": [],
+    "names": []
+  },
+  "しまう": {
+    "words": [
+      {
+        "term": "しまう",
+        "furigana": null,
+        "parsedFurigana": [],
+        "isCommon": true,
+        "senses": [
+          {
+            "pos": [
+              "AuxilaryVerb"
+            ],
+            "glosses": [
+              "to finish",
+              "to put an end to"
+            ],
+            "info": "after the -te form of a verb"
+          },
+          {
+            "pos": [
+              "AuxilaryVerb"
+            ],
+            "glosses": [
+              "to do completely",
+              "to end up doing",
+              "to do unintentionally",
+              "to do regrettably"
+            ],
+            "info": "after the -te form of a verb"
+          },
+          {
+            "pos": [
+              {
+                "Verb": {
+                  "Godan": "U"
+                }
+              },
+              {
+                "Verb": "Transitive"
+              }
+            ],
+            "glosses": [
+              "to put away",
+              "to put back",
+              "to keep"
+            ],
+            "info": null
+          }
+        ],
+        "exampleSentences": []
+      }
+    ],
+    "kanji": [],
+    "names": []
+  },
+  "なんて": {
+    "words": [
+      {
+        "term": "なんて",
+        "furigana": null,
+        "parsedFurigana": [],
+        "isCommon": true,
+        "senses": [
+          {
+            "pos": [
+              "Particle"
+            ],
+            "glosses": [
+              "such as",
+              "things like"
+            ],
+            "info": null
+          },
+          {
+            "pos": [
+              "Particle"
+            ],
+            "glosses": [
+              "to think that...",
+              "and to think that..."
+            ],
+            "info": "expressing surprise, disbelief, or admiration"
+          },
+          {
+            "pos": [
+              "Particle"
+            ],
+            "glosses": [
+              "how...!",
+              "what...!"
+            ],
+            "info": null
+          }
+        ],
+        "exampleSentences": []
+      }
+    ],
+    "kanji": [],
+    "names": []
   }
 }
