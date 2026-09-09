@@ -1,0 +1,1 @@
+import{t as e}from"./analytics.CGYRTOzu.js";document.querySelectorAll("[data-install-cta]").forEach(t=>{t.addEventListener("click",()=>e("cta_click_install",{extension:t.dataset.extension,location:"installed_welcome"}))});
