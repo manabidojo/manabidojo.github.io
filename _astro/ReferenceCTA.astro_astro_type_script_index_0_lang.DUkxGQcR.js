@@ -1,0 +1,1 @@
+import{t as e}from"./analytics.CGYRTOzu.js";document.querySelectorAll("[data-install-cta]").forEach(a=>{a.addEventListener("click",()=>{const t=window.location.pathname.startsWith("/grammar")?"grammar_reference":"anime_difficulty";e("cta_click_install",{extension:"anime",location:t})})});

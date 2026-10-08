@@ -1,0 +1,1 @@
+const e={easy:{text:"var(--tier-easy)",fill:"var(--tier-easy-fill)"},medium:{text:"var(--tier-medium)",fill:"var(--tier-medium-fill)"},hard:{text:"var(--tier-hard)",fill:"var(--tier-hard-fill)"}};export{e as T};
