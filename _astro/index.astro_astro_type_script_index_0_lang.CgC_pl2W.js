@@ -1,0 +1,1 @@
+import{t}from"./analytics.CGYRTOzu.js";document.querySelectorAll("[data-academy-trial]").forEach(a=>{a.addEventListener("click",()=>{t("cta_click_trial",{location:a.dataset.academyTrial??"courses"})})});

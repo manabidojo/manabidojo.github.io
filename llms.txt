@@ -27,6 +27,7 @@ ManabiDojo is built for self-directed Japanese learners — from casual anime fa
 - [Features](https://manabidojo.com/features): full feature documentation for both extensions
 - [Pricing](https://manabidojo.com/pricing): plans, free trial, lifetime option
 - [Supported Shows](https://manabidojo.com/supported-shows): every Crunchyroll series the Video extension currently supports
+- [Academy Courses](https://manabidojo.com/courses): every Academy course, one show each with a lesson per episode and the words each lesson teaches
 - [Blog](https://manabidojo.com/blog): guides on learning Japanese through immersion, product updates
 - [Changelog](https://manabidojo.com/changelog): release notes
 - [Rights Holders](https://manabidojo.com/rights-holders): information for content rights holders
