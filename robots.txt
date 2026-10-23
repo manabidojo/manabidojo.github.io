@@ -1,8 +1,12 @@
 User-agent: *
 Allow: /
+Disallow: /grammar/raw/
 
-# No Disallow rules. /account and /successful-payment carry noindex in their
-# own markup, and disallowing them meant Googlebot could never crawl the page
-# to see the directive it was supposed to obey.
+# /account and /successful-payment are not disallowed: they carry noindex in
+# their own markup, and disallowing them meant Googlebot could never crawl the
+# page to see the directive it was supposed to obey.
+#
+# /grammar/raw/ is: those are bare explanation fragments for embedding, with no
+# <head> to put a noindex in, and each one duplicates the /grammar/<id> page.
 
 Sitemap: https://manabidojo.com/sitemap-index.xml
