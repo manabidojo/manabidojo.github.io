@@ -17,15 +17,16 @@ ManabiDojo is built for self-directed Japanese learners — from casual anime fa
 ## Pricing
 
 - Monthly subscription: billed monthly, cancel anytime
+- Yearly subscription: billed yearly, cancel anytime, about 30% less than 12 months of the monthly plan
 - Lifetime: one-time payment, priced at roughly 20 months of the monthly plan
-- Free trial available on signup
+- 7-day free trial on the monthly plan for first-time users
 - One subscription unlocks both the Video and Web extensions
 
 ## Key pages
 
 - [Home](https://manabidojo.com/): product overview, primary CTAs, and social proof
 - [Features](https://manabidojo.com/features): full feature documentation for both extensions
-- [Pricing](https://manabidojo.com/pricing): plans, free trial, lifetime option
+- [Pricing](https://manabidojo.com/pricing): monthly, yearly and lifetime plans, free trial
 - [Supported Shows](https://manabidojo.com/supported-shows): every Crunchyroll series the Video extension currently supports
 - [Academy Courses](https://manabidojo.com/courses): every Academy course, one show each with a lesson per episode and the words each lesson teaches
 - [Blog](https://manabidojo.com/blog): guides on learning Japanese through immersion, product updates
