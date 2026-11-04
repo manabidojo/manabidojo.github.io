@@ -41,6 +41,6 @@ ManabiDojo is built by Jakub Holovsky. The product started as a video subtitle t
 
 ## What ManabiDojo is not
 
-- Not a curriculum or course — it augments content you are already consuming
+- Not a textbook curriculum — Academy courses are built from the episodes of a show, and everything else augments content you are already consuming
 - Not a replacement for graded readers or textbooks — it is a companion tool for immersion
 - Not a translation tool — it teaches you the words and grammar, it does not hand you the meaning
